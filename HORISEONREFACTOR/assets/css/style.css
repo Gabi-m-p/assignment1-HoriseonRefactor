@@ -75,10 +75,25 @@ figure {
     margin-left: 20px;
 }
 
-.benefit{
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 
 aside {
     margin-right: 20px;
@@ -92,17 +107,6 @@ aside {
 }
 
 
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-
-.benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .optimization {
     margin-bottom: 20px;
